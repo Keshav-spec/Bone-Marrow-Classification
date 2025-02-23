@@ -52,9 +52,6 @@ The training process involves:
 
 The model achieved an accuracy of **93.94%** on the validation set, demonstrating its effectiveness in classifying bone marrow cells. This high accuracy indicates the model's potential utility in assisting medical professionals with hematologic disease diagnosis.
 
-**Confusion Matrix:**
-
-*Insert a confusion matrix here to provide insight into the model's performance across different cell classes.*
 
 ## Usage
 
