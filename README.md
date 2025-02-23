@@ -35,9 +35,6 @@ The model is built using TensorFlow and Keras, employing a **convolutional neura
 - Fully connected **dense layers** for classification
 - **Dropout layers** to prevent overfitting
 
-**Model Architecture Diagram:**
-
-*Insert a diagram of the CNN architecture here, illustrating the flow from input images through convolutional layers to the output classification layer.*
 
 ## Training Process
 
@@ -48,8 +45,8 @@ The training process involves:
 - **Callbacks:** Implementing custom callbacks to monitor performance and adjust learning rates dynamically based on validation metrics.
 
 **Training and Validation Accuracy/Loss Plots:**
+![Alt Text](https://github.com/Keshav-spec/Bone-Marrow-Classification/blob/main/Screenshot%202025-02-23%20174449.png?raw=true)
 
-*Include plots showing the training and validation accuracy and loss over epochs to visualize the model's learning progress.*
 
 ## Results
 
